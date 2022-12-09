@@ -2,7 +2,7 @@
 
 
 
-Welcome to my DevOps GitHub profile! I am a DevOps engineer with experience in automating and optimizing the build, deployment, and management of large-scale systems.
+Welcome to my GitHub profile! I am a DevOps engineer with experience in automating and optimizing the build, deployment, and management of large-scale systems.
 
 My primary focus is on implementing CI/CD pipelines to improve the speed and reliability of software delivery, as well as monitoring and optimizing the performance and scalability of production environments.
 
