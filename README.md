@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**AbdifitahW/abdifitahw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Welcome to my DevOps GitHub profile! I am a DevOps engineer with experience in automating and optimizing the build, deployment, and management of large-scale systems.
 
